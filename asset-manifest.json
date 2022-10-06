@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/beauty-parlar-website/static/css/main.a7f76329.css",
+    "main.js": "/beauty-parlar-website/static/js/main.94926ae2.js",
+    "static/media/home.png": "/beauty-parlar-website/static/media/home.5ac352c3f5187a478609.png",
+    "static/media/portfolio8.jpg": "/beauty-parlar-website/static/media/portfolio8.2777e4ad51224ad6c2b6.jpg",
+    "static/media/portfolio9.jpg": "/beauty-parlar-website/static/media/portfolio9.cf1bb2ee87e7dd16545b.jpg",
+    "static/media/portfolio3.jpg": "/beauty-parlar-website/static/media/portfolio3.af842ca385c02c572a23.jpg",
+    "static/media/portfolio10.jpg": "/beauty-parlar-website/static/media/portfolio10.ce7f0f852d09fb04ed11.jpg",
+    "static/media/portfolio4.jpg": "/beauty-parlar-website/static/media/portfolio4.266a424a9548c8aa4fcd.jpg",
+    "static/media/portfolio5.jpg": "/beauty-parlar-website/static/media/portfolio5.d14db7a5237a67a07709.jpg",
+    "static/media/portfolio6.jpg": "/beauty-parlar-website/static/media/portfolio6.3abf96678f7206e2b8fd.jpg",
+    "static/media/portfolio7.jpg": "/beauty-parlar-website/static/media/portfolio7.4e628b5f08374382863f.jpg",
+    "static/media/pricing1.png": "/beauty-parlar-website/static/media/pricing1.c7a3c733ddfb18e16a1d.png",
+    "static/media/pricing2.png": "/beauty-parlar-website/static/media/pricing2.8b5337eb0ba19089a6c1.png",
+    "static/media/milestone-background.png": "/beauty-parlar-website/static/media/milestone-background.4ed80b24e9b453afc55d.png",
+    "index.html": "/beauty-parlar-website/index.html",
+    "main.a7f76329.css.map": "/beauty-parlar-website/static/css/main.a7f76329.css.map",
+    "main.94926ae2.js.map": "/beauty-parlar-website/static/js/main.94926ae2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f76329.css",
+    "static/js/main.94926ae2.js"
+  ]
+}
